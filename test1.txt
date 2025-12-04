@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D09C-B6E0
+
+ Directory of C:\Users\a834210\OneDrive - ATOS\Desktop\Myproject
+
+12/04/2025  11:34 AM    <DIR>          .
+12/04/2025  11:32 AM    <DIR>          ..
+12/04/2025  11:34 AM                72 test1.txt
+               1 File(s)             72 bytes
+               2 Dir(s)  139,206,602,752 bytes free
